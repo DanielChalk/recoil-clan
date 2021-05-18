@@ -35,3 +35,6 @@ Sometimes we dabble in other titles:
 | Purdinator   | Member        | Rager                                                      |
 | Tam          | Member        | Rage, troll                                                |
 | Velarious    | Member        | Viper Main                                                 |
+
+We'd love to have more people online so we can player more games, ensure full parties and enjoy more banter. 
+So please feel free to [join us on Discord](https://discord.gg/fpKA2HPV5f)

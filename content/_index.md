@@ -40,4 +40,15 @@ Sometimes we dabble in other titles:
 | Nak3d DAve^^    | Member        | He's naked!                                                |
 
 We'd love to have more people online so we can player more games, ensure full parties and enjoy more banter.
-So please feel free to [join us on Discord](https://discord.gg/fpKA2HPV5f)
+So please feel free to [join us on Discord](https://discord.gg/fpKA2HPV5f), and let us know what you want to
+play so we can add the right roles.
+
+<iframe 
+  src="https://discord.com/widget?id=195512827908325378&theme=dark" 
+  width="100%" 
+  height="500" 
+  allowtransparency="true" 
+  frameborder="0" 
+  sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts">
+</iframe>
+

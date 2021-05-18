@@ -36,12 +36,12 @@ paginate = 5
   # it's set to `true` by default
   # oneHeadingSize = false
 
-[params.twitter]
+# [params.twitter]
   # set Twitter handles for Twitter cards
   # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
   # do not include @
-  creator = ""
-  site = ""
+  # creator = ""
+  # site = ""
 
 [languages]
   [languages.en]
@@ -72,3 +72,6 @@ paginate = 5
     #     identifier = "showcase"
     #     name = "Showcase"
     #     url = "/showcase"
+
+[markup.goldmark.renderer]
+unsafe= true

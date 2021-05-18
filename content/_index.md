@@ -38,6 +38,7 @@ Sometimes we dabble in other titles:
 | El Queso Grande | Member        | The parent                                                 |
 | Arcane Skooch   | Member        | Trouble maker                                              |
 | Nak3d DAve^^    | Member        | He's naked!                                                |
+| El thick0       | Member        |                                                            |
 
 We'd love to have more people online so we can player more games, ensure full parties and enjoy more banter.
 So please feel free to [join us on Discord](https://discord.gg/fpKA2HPV5f), and let us know what you want to
@@ -51,4 +52,3 @@ play so we can add the right roles.
   frameborder="0" 
   sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts">
 </iframe>
-

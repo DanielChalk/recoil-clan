@@ -7,7 +7,7 @@ members:
 
 We're a community of gamers enjoying a range of casual and competitive games.
 
-You're welcome to [join us on Discord](https://discord.gg/fpKA2HPV5f). We have regular game nights, roughly 3 nights a week often more. We'll get a schedule going soon so we can plan around it.
+You're welcome to [join us on Discord](https://discord.gg/fpKA2HPV5f). We have regular game nights, roughly 3 nights a week (often more). We'll get a schedule going soon so we can plan around it.
 
 **WARNING**, we swear a lot and have a lot of rather brutal banter. Please don't let that deter, we are an inclusive group.
 
@@ -15,7 +15,7 @@ You're welcome to [join us on Discord](https://discord.gg/fpKA2HPV5f). We have r
 
 - Valorant (our main game)
 - GTFO (our secondary game)
-- Golf with friends (our chill game)
+- Golf With Your Friends (our chill game)
 
 Sometimes we dabble in other titles:
 
@@ -30,7 +30,8 @@ Sometimes we dabble in other titles:
 | Name            | Role          | Description                                                |
 | --------------- | ------------- | ---------------------------------------------------------- |
 | UnusedMethod    | Administrator | Runs Discord and the site, and basically carries everyone! |
-| Crappermine     | Discord Admin | Carries our arses and all around troll.                    |
+| Crappermine     | Discord Admin | Carries our arses and all-round troll.                     |
+| SpoonyMcFork    | Discord Admin | Full time troll and shenanigator                           |
 | ButchShlong     | Member        | Pro gamer!                                                 |
 | Purdinator      | Member        | Rager                                                      |
 | Tam             | Member        | Rager, troll                                               |

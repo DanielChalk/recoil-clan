@@ -27,14 +27,17 @@ Sometimes we dabble in other titles:
 
 ## Our members
 
-| Name         | Role          | Description                                                |
-| ------------ | ------------- | ---------------------------------------------------------- |
-| UnusedMethod | Administrator | Runs Discord and the site, and basically carries everyone! |
-| Crappermine  | Discord Admin | Carries our arses and all around troll.                    |
-| ButchShlong  | Member        | Pro gamer!                                                 |
-| Purdinator   | Member        | Rager                                                      |
-| Tam          | Member        | Rage, troll                                                |
-| Velarious    | Member        | Viper Main                                                 |
+| Name            | Role          | Description                                                |
+| --------------- | ------------- | ---------------------------------------------------------- |
+| UnusedMethod    | Administrator | Runs Discord and the site, and basically carries everyone! |
+| Crappermine     | Discord Admin | Carries our arses and all around troll.                    |
+| ButchShlong     | Member        | Pro gamer!                                                 |
+| Purdinator      | Member        | Rager                                                      |
+| Tam             | Member        | Rager, troll                                               |
+| Velerious       | Member        | Viper Main                                                 |
+| El Queso Grande | Member        | The parent                                                 |
+| Arcane Skooch   | Member        | Trouble maker                                              |
+| Nak3d DAve^^    | Member        | He's naked!                                                |
 
-We'd love to have more people online so we can player more games, ensure full parties and enjoy more banter. 
+We'd love to have more people online so we can player more games, ensure full parties and enjoy more banter.
 So please feel free to [join us on Discord](https://discord.gg/fpKA2HPV5f)
